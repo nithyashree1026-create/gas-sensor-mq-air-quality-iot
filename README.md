@@ -12,3 +12,4 @@ The sensor contains a heating element and a sensing material (usually SnO₂ –
 An MQ sensor consists of:
 * Heating coil (to maintain operating temperature)  
 * Sensing layer (SnO₂ material)  
+* Electrode system  
