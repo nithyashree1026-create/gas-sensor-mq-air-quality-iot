@@ -23,3 +23,4 @@ MQ sensors provide **analog output**.
 * Can also provide digital output using comparator modules  
 ## 📡 ESP32 Interfacing
 ESP32 reads the analog voltage from the MQ sensor using ADC pins.
+### 🔹 Flow:
