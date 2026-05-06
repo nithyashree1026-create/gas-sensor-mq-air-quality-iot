@@ -21,3 +21,4 @@ MQ sensors provide **analog output**.
 * Output voltage varies with gas concentration  
 * Requires calibration for accurate readings  
 * Can also provide digital output using comparator modules  
+## 📡 ESP32 Interfacing
