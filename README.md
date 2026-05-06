@@ -16,3 +16,4 @@ An MQ sensor consists of:
 * Protective mesh  
 The heating element ensures proper reaction with gas molecules.
 ## 🔌 Output Characteristics
+MQ sensors provide **analog output**.
