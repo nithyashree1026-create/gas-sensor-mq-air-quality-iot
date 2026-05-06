@@ -14,3 +14,4 @@ An MQ sensor consists of:
 * Sensing layer (SnO₂ material)  
 * Electrode system  
 * Protective mesh  
+The heating element ensures proper reaction with gas molecules.
