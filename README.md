@@ -36,3 +36,4 @@ Gas detection data can be transmitted using ESP32 Wi-Fi.
 * Smart kitchen safety systems
 * Industrial monitoring  
 * Air quality monitoring  
+## 🧩 Design Considerations
