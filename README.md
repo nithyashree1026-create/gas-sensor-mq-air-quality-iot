@@ -29,3 +29,4 @@ ESP32 reads the analog voltage from the MQ sensor using ADC pins.
 * Voltage varies  
 * ESP32 reads ADC value  
 * Threshold logic applied  
+## 🌐 IoT Integration
