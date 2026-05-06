@@ -47,3 +47,7 @@ Gas detection data can be transmitted using ESP32 Wi-Fi.
 * Sensitive to multiple gases  
 * Requires continuous power for heater  
 ## 🚀 Advanced Applications
+* Smart gas leakage alert systems  
+* Industrial safety monitoring  
+* Environmental pollution tracking  
+* Smart home automation  
