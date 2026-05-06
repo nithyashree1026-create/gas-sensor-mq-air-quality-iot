@@ -18,3 +18,6 @@ The heating element ensures proper reaction with gas molecules.
 ## 🔌 Output Characteristics
 MQ sensors provide **analog output**.
 ### 🔹 Key Points:
+* Output voltage varies with gas concentration  
+* Requires calibration for accurate readings  
+* Can also provide digital output using comparator modules  
