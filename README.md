@@ -52,3 +52,4 @@ Gas detection data can be transmitted using ESP32 Wi-Fi.
 * Environmental pollution tracking  
 * Smart home automation  
 ## 🔮 Future Scope
+Integration with cloud platforms and AI-based analytics can enable predictive safety systems and real-time air quality monitoring.
