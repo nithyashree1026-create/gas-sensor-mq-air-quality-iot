@@ -51,3 +51,4 @@ Gas detection data can be transmitted using ESP32 Wi-Fi.
 * Industrial safety monitoring  
 * Environmental pollution tracking  
 * Smart home automation  
+## 🔮 Future Scope
