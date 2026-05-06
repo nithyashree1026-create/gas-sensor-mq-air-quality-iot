@@ -30,3 +30,4 @@ ESP32 reads the analog voltage from the MQ sensor using ADC pins.
 * ESP32 reads ADC value  
 * Threshold logic applied  
 ## 🌐 IoT Integration
+Gas detection data can be transmitted using ESP32 Wi-Fi.
