@@ -15,3 +15,4 @@ An MQ sensor consists of:
 * Electrode system  
 * Protective mesh  
 The heating element ensures proper reaction with gas molecules.
+## 🔌 Output Characteristics
