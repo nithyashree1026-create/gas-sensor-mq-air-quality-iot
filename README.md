@@ -39,3 +39,6 @@ Gas detection data can be transmitted using ESP32 Wi-Fi.
 ## 🧩 Design Considerations
 ### 🔹 Important Points:
 * Sensor requires warm-up time  
+* Calibration is necessary  
+* Avoid humidity interference  
+* Use stable power supply  
