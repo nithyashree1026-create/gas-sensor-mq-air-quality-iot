@@ -42,3 +42,7 @@ Gas detection data can be transmitted using ESP32 Wi-Fi.
 * Calibration is necessary  
 * Avoid humidity interference  
 * Use stable power supply  
+## ⚠️ Limitations
+* Not highly precise without calibration  
+* Sensitive to multiple gases  
+* Requires continuous power for heater  
