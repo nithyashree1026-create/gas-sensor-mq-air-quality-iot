@@ -6,3 +6,4 @@ This repository focuses on the working mechanism, sensing characteristics, circu
 MQ sensors operate based on **chemiresistive sensing**.
 The sensor contains a heating element and a sensing material (usually SnO₂ – Tin Dioxide). In clean air, the resistance is high. When exposed to gas, the resistance decreases due to chemical reactions on the sensor surface.
 ### 🔹 Behavior:
+* Clean air → High resistance  
