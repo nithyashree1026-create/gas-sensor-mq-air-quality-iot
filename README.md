@@ -9,3 +9,4 @@ The sensor contains a heating element and a sensing material (usually SnO₂ –
 * Clean air → High resistance  
 * Gas presence → Low resistance  
 ## ⚙️ Sensor Structure
+An MQ sensor consists of:
