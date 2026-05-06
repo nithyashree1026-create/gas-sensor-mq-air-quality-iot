@@ -24,3 +24,8 @@ MQ sensors provide **analog output**.
 ## 📡 ESP32 Interfacing
 ESP32 reads the analog voltage from the MQ sensor using ADC pins.
 ### 🔹 Flow:
+* Gas detected  
+* Resistance changes  
+* Voltage varies  
+* ESP32 reads ADC value  
+* Threshold logic applied  
