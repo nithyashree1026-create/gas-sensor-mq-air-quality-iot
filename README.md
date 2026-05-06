@@ -38,3 +38,4 @@ Gas detection data can be transmitted using ESP32 Wi-Fi.
 * Air quality monitoring  
 ## 🧩 Design Considerations
 ### 🔹 Important Points:
+* Sensor requires warm-up time  
