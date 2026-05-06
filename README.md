@@ -55,3 +55,5 @@ Gas detection data can be transmitted using ESP32 Wi-Fi.
 Integration with cloud platforms and AI-based analytics can enable predictive safety systems and real-time air quality monitoring.
 ## ✨ Conclusion
 MQ gas sensors are essential components for safety and environmental monitoring. When combined with ESP32, they enable smart, connected, and real-time gas detection systems.
+## 📚 Learning Note
+This repository is part of my daily learning journey in Embedded Systems and IoT. I am exploring concepts step by step and documenting my understanding.
