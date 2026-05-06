@@ -34,3 +34,5 @@ Gas detection data can be transmitted using ESP32 Wi-Fi.
 ### 🔹 Applications:
 * Gas leakage detection  
 * Smart kitchen safety systems
+* Industrial monitoring  
+* Air quality monitoring  
